@@ -1,0 +1,47 @@
+body {
+	background:#FFF;
+}
+
+#container {
+	margin: 0px auto 0px auto;
+	padding: 10px;
+	background: #1A2B3A;
+	height:1000px;
+	width:1000px;
+}
+
+#banner {
+	height: 120px;
+	width: 960px;
+	margin: 0px auto 0px auto;
+	border: 1px solid #FFF;
+}
+
+#content {
+	height: 120px;
+	width: 800px;
+	margin: 30px auto 0px auto;
+}
+
+p {
+	color: #FFF;
+	font-size: 20px;
+	text-align: center;
+}
+
+#pictures {
+	width: 960px;
+	height:500px;
+	margin: 30px auto 0px auto;
+}
+
+p1 {
+	color: #FFF;
+	font-size: 20px;
+	text-align: center;
+}
+
+p1:hover {
+	color: #7FFF00;
+	font-size: 30px;
+}

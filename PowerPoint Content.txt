@@ -1,0 +1,34 @@
+Web-based programming
+
+By Devin Simoneaux and Gabe Brown
+
+HTML
+- Hypertext Markup Language
+- Used to create web pages
+- Browsers look at the code and render a web page
+- Created by Tim Berners-lee in 1990
+    - CERN (European Organization for Nuclear Research)
+- Structure of the website
+- Can imbed media or create interactive forms
+- Can also imbed other programming languages such as javascript
+- Elements are indicated by tags <element>
+    - Some contain content <p>, while others don’t <br>
+- Works hand in hand with CSS
+
+
+CSS
+- Cascading Style Sheet
+- Created by Hakom Wium Lie in 1994
+- Visual aspect of a web page
+- One web page could have multiple CSS files attached
+- Imported into an HTML file via <link>
+- Layouts and fonts
+- Colors
+    - Hexidecimal
+        - Black #000000
+        - White #FFFFFF
+- Refers back to the HTML via # element {}
+
+
+
+
